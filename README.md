@@ -4,7 +4,7 @@ SUMO是由德国宇航中心（DLR）交通系统研究所开发的免费、开�
 ## SUMO功能介绍
 * 微观仿真。可仿真的对象包括车辆、行人、公共交通等。支持多种交通模型。仿真路网的大小不受限制。
 * 在线交互。通过TraCI可以实时与仿真场景进行双向交互。
-* 可导入OpenStreetMap、VISUM、SISSIM路网。
+* 可导入OpenStreetMap、VISUM、VISSIM路网。
 * Veins套件包含了SUMO（交通仿真器）和OMNET++（网络仿真器），可以实现车联网环境下的交通仿真。
 
 ## SUMO与其他交通仿真软件的对比

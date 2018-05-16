@@ -1,3 +1,14 @@
+# About this repository
+该仓库主要收录不同主题的技术文档，同时这些文档将作为个人Blog和知乎专栏的蓝本。
+目前收录的技术文档主题包括：
+* PyTorch
+* SUMO
+
+# About PyTorch
+PyTorch是开源的Python科学计算及深度学习库，主要用于创建各种深度学习应用。PyTorch由Facebook AI研究小组开发，同时，Uber的Pyro概率编程组件也包含在内。
+PyTorch最大的特点是动态计算图机制，这使得模型构建更加灵活，特别是在创建序列模型时极具优势。
+目前，Caffe2源码已并入PyTorch，成为不逊于TensorFlow的强大深度学习研究和实现工具。
+
 # About SUMO
 SUMO是由德国宇航中心（DLR）交通系统研究所开发的免费、开源的交通仿真套件，可以从http://www.dlr.de/ts/en/desktopdefault.aspx/tabid-9883/16931_read-41000/ 下载SUMO的安装包、说明文档和源代码。SUMO支持Windows、Linux操作系统。
 
@@ -16,7 +27,3 @@ SUMO与VISSIM等微观交通仿真软件相比，具有以下优点：
 但也有以下尚待完善之处：
 * GUI工具功能相对欠缺，大部分功能需要通过程序脚本实现；
 * 仍处于开发完善阶段，部分功能尚不稳定。
-
-# About this repository
-目前SUMO的官方文档不够完善，对初学者不友好。本Repo结合官方文档、第三方资料和个人探索，提供SUMO的基础应用案例。
-本Repo正在不断完善中。
